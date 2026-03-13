@@ -24,6 +24,7 @@ Progreso del sistema:
 ![Alt Sistema en funcionamiento](https://github.com/DanixaChan/Aulivox/EvidenciaVisual/AULIVOX_V0.1.gif)
 
 ---
+
 ¿Cómo ejecutarlo?
 De momento solo está disponible el backend, por lo que se puede acceder sus funcionalidades en FastApi con el modelo AI local, lo cuál aún no está disponible lo último.
 
@@ -40,6 +41,7 @@ pip install -r requirements.txt
 
 Iniciar servidor local:
 python -m uvicorn main:app --reload
+
 ---
 
 ## Tecnologías
@@ -58,6 +60,7 @@ python -m uvicorn main:app --reload
 - **React** – Biblioteca para interfaces de usuario
 - **TypeScript** – Superset de JavaScript tipado
 - **CSS** – Estilos personalizados
+- 
 ---
 ### Arquitectura
 - backend/
@@ -70,6 +73,7 @@ python -m uvicorn main:app --reload
     - react app
 
 ---
+
 ### Proceso del Modelo de IA
 
 El sistema utiliza un modelo de resumen entrenado con datasets educativos generados mediante una fábrica de datos sintéticos.
