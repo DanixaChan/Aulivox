@@ -21,7 +21,7 @@ Progreso del sistema:
 - Entrenamiento del modelo de inteligencia artificial para generación de resúmenes (3% del dataset procesado).
 - Desarrollo del sistema de generación de resúmenes y narración detallada a partir de texto procesado por OCR y texto plano.
 
-![Alt Sistema en funcionamiento](https://github.com/DanixaChan/Aulivox/tree/main/EvidenciaVisual/AULIVOX_V0.1.gif)
+![Alt Sistema en funcionamiento](https://github.com/DanixaChan/Aulivox/blob/main/EvidenciaVisual/AULIVOX_V0.1.gif)
 
 ---
 
